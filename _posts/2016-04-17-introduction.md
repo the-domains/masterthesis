@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: This site explains the introduction chapter
-datePublished: '2016-04-17T11:10:14.950Z'
-dateModified: '2016-04-17T11:10:14.595Z'
+datePublished: '2016-04-17T11:15:32.558Z'
+dateModified: '2016-04-17T11:15:07.714Z'
 title: Introduction
+author: []
+sourcePath: _posts/2016-04-17-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-17-introduction.md
-published: true
 url: introduction/index.html
 _type: WebPage
 
 ---
-Introduction
+Introduction to the topic
