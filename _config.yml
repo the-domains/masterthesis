@@ -2,6 +2,7 @@ name: Masterthesis
 favicon: null
 layout_spectrum: 0.25931395404040813
 typography_spectrum: 0.5347723835147917
+title: A blog about writing a academic thesis
 cta:
   domain: null
   bucket: null
